@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opcache&hide_title=true)
-
 ![Tired of I.T! github stats](https://github-readme-stats.vercel.app/api?username=opcache&show_icons=true&hide_title=true)
